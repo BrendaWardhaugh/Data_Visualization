@@ -20,3 +20,8 @@ Analysis
 
 - Mouse gender was close to equally represented thoughout the study as a whole. More analysis would need to be conducted to determine whether gender was a factor in the drug success amongst the Campomulin and Ramicane regimens.
 - More analysis would also need to be conducted to determine if mouse age was a factor in the drug regimen results.
+
+
+A sample mouse's chart from the Capomulin treatment demonstrating the effectiveness of reducing the size of the tumor:
+
+![sample mouse](https://user-images.githubusercontent.com/120147552/215553843-744a46fa-c2a3-4993-b4a2-ed2a90bf1f79.png)
