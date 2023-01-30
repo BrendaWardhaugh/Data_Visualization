@@ -8,7 +8,7 @@ This challenge was to demonstrate the use of matplotlib.pyplot, pandas, and stat
 ## Pymaceuticals Inc.
 Analysis
 
-- This study shows that mice on the Capomulin drug regimen yielded the best results in shrinking the Tumor Volume (mm3) against all other drug regimens, except for the Ramicane drug which yielded comparible and slightly better results. (It should also be noted that Capomulin and Ramicane also had more timepoints of data included in the study)
+- This study shows that mice on the Capomulin drug regimen yielded the best results in shrinking the Tumor Volume (mm3) based on Final Tumor Volume against all other drug regimens, except for the Ramicane drug which yielded comparible and slightly better results. (It should also be noted that Capomulin and Ramicane also had more timepoints of data included in the study)
 
 ![treatment comp](https://user-images.githubusercontent.com/120147552/215554556-7fbb3b94-35da-4bfd-85fd-3fad055fe8ac.png)
 
