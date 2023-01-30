@@ -10,6 +10,8 @@ Analysis
 
 - This study shows that mice on the Capomulin drug regimen yielded the best results in shrinking the Tumor Volume (mm3) against all other drug regimens, except for the Ramicane drug which yielded comparible and slightly better results. (It should also be noted that Capomulin and Ramicane also had more timepoints of data included in the study)
 
+![treatment comp](https://user-images.githubusercontent.com/120147552/215554556-7fbb3b94-35da-4bfd-85fd-3fad055fe8ac.png)
+
 ![stats table](https://user-images.githubusercontent.com/120147552/215552677-0d0c8171-b354-4346-9a4a-4e18a1e012b4.png)
 
 ![timepoints](https://user-images.githubusercontent.com/120147552/215553016-f16893d7-3bcd-4159-b285-e6bae4d441e5.png)
@@ -20,6 +22,7 @@ Analysis
 
 - Mouse gender was close to equally represented thoughout the study as a whole. More analysis would need to be conducted to determine whether gender was a factor in the drug success amongst the Campomulin and Ramicane regimens.
 - More analysis would also need to be conducted to determine if mouse age was a factor in the drug regimen results.
+
 
 
 A sample mouse's chart from the Capomulin treatment demonstrating the effectiveness of reducing the size of the tumor:
