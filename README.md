@@ -5,7 +5,7 @@ Please see the attached documents which include jupyter notebook script and the 
 
 This challenge was to demonstrate the use of matplotlib.pyplot, pandas, and statistics to manipulate the data from a study of different drug treatment regimens conducted on mice to test their success in potential treatment of squamous cell carcinoma (SCC), a commonly occurring form of skin cancer tumors. 
 
-##Pymaceuticals Inc.
+## Pymaceuticals Inc.
 Analysis
 
 - This study shows that mice on the Capomulin drug regimen yielded the best results in shrinking the Tumor Volume (mm3) against all other drug regimens, except for the Ramicane drug which yielded comparible and slightly better results. (It should also be noted that Capomulin and Ramicane also had more timepoints of data included in the study)
